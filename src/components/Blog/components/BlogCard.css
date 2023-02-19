@@ -1,0 +1,30 @@
+.post{
+    
+    color:rgb(5, 141, 23);
+    margin-left:10px;
+    border-radius:5px;
+    margin-right: 10px;
+}
+.overlay{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: rgb(72, 114, 83);
+}
+.addFormDIv{
+    text-align: center;
+    width: 620px;
+    height: 400px;
+    z-index: 1;
+    top: 40%;
+    left:350%;
+    margin: -125px 0 0 -125px;
+    border-radius: 10px;
+    background-color:rgb(109, 109, 40);
+    position:fixed
+}

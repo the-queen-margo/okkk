@@ -1,0 +1,13 @@
+
+.submit{
+    font-size:16px;
+    background-color: rgba(170, 42, 42, 0.678);
+}
+body {
+    background-image: url(./sources/top.gif);
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size:100% ;
+    background-size: 100%;
+}
+ 

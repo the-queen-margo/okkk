@@ -1,0 +1,62 @@
+[
+    {
+     "category": 4,
+     "name": "avatar's",
+     "photos": [
+      "https://pixelbox.ru/wp-content/uploads/2021/05/ava-steam-cyberpank-77.jpg",
+      "https://www.game-ost.ru/static/covers_soundtracks/3/5/352960_969921.jpg",
+      "https://i.ytimg.com/vi/hafNinyseAs/maxresdefault.jpg",
+      "https://games.mail.ru/hotbox/content_files/news/2021/09/09/83843fd28d434e66ba7113ad04f7a094.jpg"
+     ]
+    },
+    {
+     "category": 3,
+     "name": "some things",
+     "photos": [
+      "https://i.pinimg.com/originals/7b/c7/ab/7bc7ab16580adada316e1fe14e737423.jpg",
+      "https://i.ytimg.com/vi/hafNinyseAs/maxresdefault.jpg",
+      "https://www.game-ost.ru/static/covers_soundtracks/3/5/352960_969921.jpg",
+      "https://webmg.ru/wp-content/uploads/2020/12/3-65.jpg"
+     ]
+    },
+    {
+     "category": 2,
+     "name": "screamers",
+     "photos": [
+      "https://www.vladtime.ru/uploads/posts/2018-04/1523451230_24296312.jpg.770x380_q85_crop-0.jpg",
+      "https://free4kwallpapers.com/uploads/originals/2015/07/15/blink-182.jpg",
+      "https://i.ytimg.com/vi/hafNinyseAs/maxresdefault.jpg",
+      "https://i.pinimg.com/originals/89/2e/50/892e50957c1b08e2fadb8a7453a96df7.jpg"
+     ]
+    },
+    {
+     "category": 5,
+     "name": "present",
+     "photos": [
+      "https://www.itl.cat/pngfile/big/103-1037888_lil-peep-lil-tracy-your-favorite-dress.jpg",
+      "https://kartinkin.net/uploads/posts/2022-03/thumbs/1647280006_27-kartinkin-net-p-kartinki-zabroshki-29.jpg",
+      "https://rare-gallery.com/mocahbig/1378060-berserk-guts-beast-of-darkness-4k-pc-wallpaper.jpg",
+      "https://i.pinimg.com/736x/ab/ea/b1/abeab109c4199413009ac885af34864e--the-flash-tv-series.jpg"
+     ]
+    },
+   {
+   "category": 6,
+     "name": "guys",
+    "photos" : [
+   "https://jordanrussiacenter.org/wp-content/uploads/2012/11/022e61bc299c31ffa66b61a52908f6d1.jpeg",
+   "https://get.wallhere.com/photo/glitch-art-abstract-1609417.jpg",
+   "https://phonoteka.org/uploads/posts/2021-03/1616660045_34-p-glitch-fon-41.jpg",
+   "https://i.pinimg.com/736x/df/e8/e6/dfe8e63289183493332e43ef8b04a658--glitch-art-ruins.jpg"
+   ]
+   },
+   {
+   "category": 1,
+     "name": "gif's",
+    "photos" : [
+    "https://otkritkis.com/wp-content/uploads/2022/07/gvbly.gif",
+    "https://pixelbox.ru/wp-content/uploads/2021/10/gif-for-steam-pixelbox.ru-70.gif",
+    "https://pixelbox.ru/wp-content/uploads/2021/10/gif-for-steam-pixelbox.ru-66.gif",
+   "https://pixelbox.ru/wp-content/uploads/2021/10/gif-anime-steam-pixelbox.ru-5.gif"    
+    ]       
+ }   
+]
